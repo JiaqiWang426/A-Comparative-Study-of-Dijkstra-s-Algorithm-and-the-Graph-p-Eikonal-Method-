@@ -1,0 +1,4 @@
+dataset,p,best_score
+gaussian_mixture,4.0,0.9847852289006223
+obstacle_grid,4.0,0.9885366611625686
+two_moons,2.0,0.9877501176878121

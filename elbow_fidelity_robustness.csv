@@ -1,0 +1,4 @@
+dataset,elbow_p,elbow_idx
+gaussian_mixture,0.9737587754342545,3
+obstacle_grid,0.9826578485005752,1
+two_moons,0.9720835047951394,1
